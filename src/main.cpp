@@ -1,4 +1,6 @@
 #include <windows.h>
+#include <windowsx.h> 
+#include "WndProc.h"
 #include <iostream>
 
 // エントリーポイント
